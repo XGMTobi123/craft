@@ -1,23 +1,18 @@
 **Change** a modifier that grants **Fire** Resistance into a similar-tier modifier that grants **Cold** Resistance (83)
 **Change** a modifier that grants **Cold** Resistance into a similar-tier modifier that grants **Lightning** Resistance (83)
 **Change** a modifier that grants **Fire** Resistance into a similar-tier modifier that grants **Lightning** Resistance (83)
-
 **Change** a modifier that grants **Cold** Resistance into a similar-tier modifier that grants **Fire** Resistance (83)
 **Change** a modifier that grants **Lightning** Resistance into a similar-tier modifier that grants **Cold** Resistance (83)
 **Change** a modifier that grants **Cold** Resistance into a similar-tier modifier that grants **Fire** Resistance (81)
-
 **Change** a **Unique Bestiary** item or item with an Aspect into Lures of the same beast family (83)
 Add a random **Influence** to Normal, Magic or Rare **Armour** that isn't influenced (82)
 **Enchant Body Armour**. Quality does not increase its Defences, grants +1 Dexterity per 2% quality (82)
-
 **Enchant Body Armour**. Quality does not increase its Defences, grants +1 Maximum Mana per 2% quality (81)
 **Enchant Body Armour**. Quality does not increase its Defences, grants +1 Intelligence per 2% quality (81)
 **Change** a **Pale Court Key** into another random Pale Court Key (81)
-
 **Sacrifice** a stack of **Divination Cards** for that many different Divination Cards (81)
 **Reforge** a Rare item with Lucky modifier values, keeping all **Suffixes** (82)
 Improves the **Quality** of a **Gem** by at least 10%. The maximum quality is 20% (82)
-
 **Reforge** the links between sockets on an item, linking **five sockets** (82)
  **Remove** a random **Attack** modifier from an item (83)
 
