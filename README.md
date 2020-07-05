@@ -2,7 +2,11 @@
 
 **Augment** a Magic or Rare item with a new **Caster** modifier (82)
 
+**Augment** a Magic or Rare item with a new **Caster** modifier (82)
+
 **Augment** a Magic or Rare item with a new **Caster** modifier (82),
+
+**Augment** a Magic or Rare item with a new **Caster** modifier (83)
 
 **Augment** a Magic or Rare item with a new **Caster** modifier (83)
 
@@ -10,17 +14,39 @@
 
 **Augment** a Magic or Rare item with a new **Caster** modifier with Lucky values (83),
 
+**Augment** a Magic or Rare item with a new **Fire** modifier (81)
+
+**Augment** a Magic or Rare item with a new **Fire** modifier (81)
+
+**Augment** a Magic or Rare item with a new **Fire** modifier (83),
+
+**Augment** a Magic or Rare item with a new **Physical** modifier (82)
+
 **Augment** a Magic or Rare item with a new **Physical** modifier (82),
 
 **Augment** a Magic or Rare item with a new **Physical** modifier (83)
 
+**Augment** a Magic or Rare item with a new **Physical** modifier with Lucky values (83)
+
+**Augment** a Rare item with a new modifier, with Lucky modifier values (82),
+
 **Augment** an item with a new **Attack** modifier (82),
 
+**Augment** an item with a new **Attack** modifier (82),
+
+**Augment** an item with a new **Attack** modifier with Lucky values (82)
+
+**Augment** an item with a new **Attack** modifier with Lucky values (83),
+
 **Augment** an item with a new **Chaos** modifier (82),
+
+**Augment** an item with a new **Chaos** modifier with Lucky values (82)
 
 **Augment** an item with a new **Chaos** modifier with Lucky values (82),
 
 **Augment** an item with a new **Chaos** modifier with Lucky values (83)
+
+**Augment** an item with a new **Critical** modifier (82),
 
 **Augment** an item with a new **Defence** modifier (81),
 
@@ -28,27 +54,35 @@
 
 **Augment** an item with a new **Defence** modifier (83),
 
+**Augment** an item with a new **Defence** modifier with Lucky values (82)
+
 **Augment** an item with a new **Defence** modifier with Lucky values (83)
 
 **Augment** an item with a new **Influence** modifier (68)
 
 **Augment** an item with a new **Influence** modifier (83)
 
+**Augment** an item with a new **Influence** modifier with Lucky values (82),
+
+**Augment** an item with a new **Life** modifier (82)
+
 **Augment** an item with a new **Life** modifier (82),
 
-**Augment** an item with a new **Life** modifier (83)
+**Augment** an item with a new **Life** modifier (82),
 
 **Augment** an item with a new **Life** modifier (83),
 
-**Augment** an item with a new **Life** modifier with Lucky values (82),
+**Augment** an item with a new **Life** modifier (83),
 
-**Augment** an item with a new **Lightning** modifier (82)
-
-**Augment** an item with a new **Lightning** modifier with Lucky values (83)
+**Augment** an item with a new **Life** modifier with Lucky values (82)
 
 **Change** a **Harbinger Unique** or **Unique Piece** into a random Beachhead Map (82)
 
 **Change** a **Harbinger Unique** or **Unique Piece** into a random Beachhead Map (82)
+
+**Change** a **Harbinger Unique** or **Unique Piece** into a random Beachhead Map (83)
+
+**Change** a **Harbinger Unique** or **Unique Piece** into a random Beachhead Map (83),
 
 **Change** a **Pale Court Key** into another random Pale Court Key (81),
 
@@ -92,9 +126,11 @@
 
 **Enchant** a non-Unique **Map** with \Map boss is surrounded by Tormented Spirits\ (81),
 
+**Fracture** a random modifier on an item with at least 5 modifiers, locking it in place. This can't be used on Influenced, Synthesised, or Fractured items (83),
+
 **Reforge** a **Rare** item with new random modifiers, including a **Critical** modifier (81)
 
-**Reforge** a **Rare** item with new random modifiers, including a **Critical** modifier (81),
+**Reforge** a **Rare** item with new random modifiers, including a **Critical** modifier (81)
 
 **Reforge** a **Rare** item with new random modifiers, including a **Critical** modifier (82)
 
@@ -122,13 +158,15 @@
 
 **Reforge** a Rare item with Lucky modifier values, keeping all **Suffixes** (82)
 
-**Reforge** a Rare item with Lucky modifier values, keeping all **Suffixes** (82)
+**Reforge** a Rare item with Lucky modifier values, keeping all **Suffixes** (83),
 
 **Reforge** a Rare item with new random modifiers, including an **Influence** modifier. **Influence** modifiers are more common (83),
 
 **Reforge** a Rare item, being much **more likely** to receive the same modifier types (82),
 
 **Reforge** a Rare item, being much **more likely** to receive the same modifier types (83),
+
+**Reforge** a Rare item, keeping all **Prefixes** (83)
 
 **Reforge** a Rare item, keeping all **Prefixes** (83),
 
@@ -148,15 +186,15 @@
 
 **Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (81)
 
-**Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (82)
+**Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (81)
+
+**Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (81)
 
 **Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (82)
 
-**Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (82),
-
 **Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (83)
 
-**Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (83)
+**Remove** a random **Attack** modifier from an item and **add** a new **Attack** modifier (83),
 
 **Remove** a random **Caster** modifier from an item (83)
 
@@ -178,17 +216,31 @@
 
 **Remove** a random **Chaos** modifier from an item (82)
 
-**Remove** a random **Chaos** modifier from an item (83),
+**Remove** a random **Chaos** modifier from an item (82)
 
 **Remove** a random **Chaos** modifier from an item and **add** a new **Chaos** modifier (81)
 
 **Remove** a random **Chaos** modifier from an item and **add** a new **Chaos** modifier (82)
 
-**Remove** a random **Cold** modifier from an item (81),
+**Remove** a random **Chaos** modifier from an item and **add** a new **Chaos** modifier (82)
 
-**Remove** a random **Cold** modifier from an item and **add** a new **Cold** modifier (82)
+**Remove** a random **Cold** modifier from an item (83)
 
-**Remove** a random **Critical** modifier from an item and **add** a new **Critical** modifier (82)
+**Remove** a random **Cold** modifier from an item (83)
+
+**Remove** a random **Cold** modifier from an item and **add** a new **Cold** modifier (82),
+
+**Remove** a random **Cold** modifier from an item and **add** a new **Cold** modifier (83),
+
+**Remove** a random **Cold** modifier from an item and **add** a new **Cold** modifier (83),
+
+**Remove** a random **Critical** modifier from an item and **add** a new **Critical** modifier (83)
+
+**Remove** a random **Defence** modifier from an item (82)
+
+**Remove** a random **Defence** modifier from an item (82),
+
+**Remove** a random **Defence** modifier from an item (82),
 
 **Remove** a random **Defence** modifier from an item (83)
 
@@ -200,37 +252,19 @@
 
 **Remove** a random **Fire** modifier from an item (82),
 
-**Remove** a random **Life** modifier from an item and **add** a new **Life** modifier (83),
+**Remove** a random **Fire** modifier from an item and **add** a new **Fire** modifier (82)
 
-**Remove** a random **Life** modifier from an item and **add** a new **Life** modifier (83),
+**Remove** a random **Life** modifier from an item and **add** a new **Life** modifier (82)
 
-**Remove** a random **Life** modifier from an item and **add** a new **Life** modifier (83),
-
-**Remove** a random **Lightning** modifier from an item (82)
+**Remove** a random **Life** modifier from an item and **add** a new **Life** modifier (82),
 
 **Remove** a random **Lightning** modifier from an item (82)
 
 **Remove** a random **Lightning** modifier from an item (82),
 
-**Remove** a random **Physical** modifier from an item (81),
+**Remove** a random **non-Attack** modifier from an item and **add** a new **Attack** modifier (81),
 
-**Remove** a random **Physical** modifier from an item (82)
-
-**Remove** a random **Physical** modifier from an item (82)
-
-**Remove** a random **Physical** modifier from an item (83)
-
-**Remove** a random **Physical** modifier from an item (83),
-
-**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82)
-
-**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82)
-
-**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82)
-
-**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82),
-
-**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82),
+**Remove** a random **non-Attack** modifier from an item and **add** a new **Attack** modifier (82)
 
 **Remove** a random **non-Attack** modifier from an item and **add** a new **Attack** modifier (82)
 
@@ -240,9 +274,15 @@
 
 **Remove** a random **non-Caster** modifier from an item and **add** a new **Caster** modifier (81),
 
-**Remove** a random **non-Caster** modifier from an item and **add** a new **Caster** modifier (82)
+**Remove** a random **non-Caster** modifier from an item and **add** a new **Caster** modifier (82),
 
 **Remove** a random **non-Caster** modifier from an item and **add** a new **Caster** modifier (83)
+
+**Remove** a random **non-Caster** modifier from an item and **add** a new **Caster** modifier (83)
+
+**Remove** a random **non-Caster** modifier from an item and **add** a new **Caster** modifier (83),
+
+**Remove** a random **non-Caster** modifier from an item and **add** a new **Caster** modifier (83),
 
 **Remove** a random **non-Caster** modifier from an item and **add** a new **Caster** modifier (83),
 
@@ -254,15 +294,35 @@
 
 **Remove** a random **non-Chaos** modifier from an item and **add** a new **Chaos** modifier (82),
 
+**Remove** a random **non-Chaos** modifier from an item and **add** a new **Chaos** modifier (82),
+
+**Remove** a random **non-Cold** modifier from an item and **add** a new **Cold** modifier (82)
+
+**Remove** a random **non-Cold** modifier from an item and **add** a new **Cold** modifier (82),
+
+**Remove** a random **non-Cold** modifier from an item and **add** a new **Cold** modifier (83)
+
 **Remove** a random **non-Cold** modifier from an item and **add** a new **Cold** modifier (83),
+
+**Remove** a random **non-Cold** modifier from an item and **add** a new **Cold** modifier (83),
+
+**Remove** a random **non-Defence** modifier from an item and **add** a new **Defence** modifier (82)
 
 **Remove** a random **non-Defence** modifier from an item and **add** a new **Defence** modifier (82)
 
 **Remove** a random **non-Defence** modifier from an item and **add** a new **Defence** modifier (82),
 
-**Remove** a random **non-Defence** modifier from an item and **add** a new **Defence** modifier (83)
+**Remove** a random **non-Defence** modifier from an item and **add** a new **Defence** modifier (82),
 
 **Remove** a random **non-Defence** modifier from an item and **add** a new **Defence** modifier (83),
+
+**Remove** a random **non-Defence** modifier from an item and **add** a new **Defence** modifier (83),
+
+**Remove** a random **non-Fire** modifier from an item and **add** a new **Fire** modifier (81),
+
+**Remove** a random **non-Influence** modifier from an item and **add** a new **Influence** modifier (81)
+
+**Remove** a random **non-Influence** modifier from an item and **add** a new **Influence** modifier (83)
 
 **Remove** a random **non-Life** modifier from an item and **add** a new **Life** modifier (81)
 
@@ -287,6 +347,36 @@
 **Remove** a random **non-Physical** modifier from an item and **add** a new **Physical** modifier (82),
 
 **Remove** a random **non-Physical** modifier from an item and **add** a new **Physical** modifier (83)
+
+**Remove** a random **Physical** modifier from an item (81),
+
+**Remove** a random **Physical** modifier from an item (82)
+
+**Remove** a random **Physical** modifier from an item (82)
+
+**Remove** a random **Physical** modifier from an item (83)
+
+**Remove** a random **Physical** modifier from an item (83),
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82)
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82)
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82)
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82)
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82),
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (82),
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (83)
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (83)
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (83),
+
+**Remove** a random **Physical** modifier from an item and **add** a new **Physical** modifier (83),
 
 **Reroll** the values of Prefix, Suffix and Implicit modifiers on a Rare item, with Lucky modifier values (82),
 
@@ -318,13 +408,15 @@
 
 **Sacrifice** up to half a stack of **Divination Cards** to receive between 0 and twice that amount of the same Card (83),
 
+**Synthesise** an item, giving random Synthesised implicits. Cannot be used on Unique, Influenced, Synthesised or Fractured items (82)
+
 **Upgrade** a **Magic item** to a Rare item, adding **two** random modifiers (83)
 
 **Upgrade** a **Normal item** to a Magic item, adding **one** random **high-tier** modifier (81),
 
 **Upgrade** a **Normal item** to a Magic item, adding **one** random **high-tier** modifier (83)
 
-**Upgrade** a **Normal item** to a Magic item, adding **one** random **high-tier** modifier (83),
+**Upgrade** a **Normal item** to a Magic item, adding **one** random **high-tier** modifier (83)
 
 **Upgrade** a **Normal item** to a Magic item, adding **one** random **high-tier** modifier (83),
 
@@ -348,7 +440,9 @@ Add a random **Influence** to a Normal, Magic or Rare **Weapon** that isn't infl
 
 Add a random **Influence** to a Normal, Magic or Rare **Weapon** that isn't influenced (83),
 
-Improves the **Quality** of a **Gem** by at least 10%. The maximum quality is 20% (82),
+Add a random **Influence** to Normal, Magic or Rare **Jewellery** that isn't influenced (81)
+
+Improves the **Quality** of a **Gem** by at least 10%. The maximum quality is 20% (82)
 
 Improves the **Quality** of a **Gem** by at least 10%. The maximum quality is 20% (82),
 
