@@ -4,6 +4,8 @@ IGN: Alegro_Herbarium
 
 FIXPRICE: 50c for common crafts, 1ex for rare, 3ex for extra rare. You can check the price in PM.
 
+STREAMABLE, COLLATERAL-ABLE
+
 **Augment** a Magic or Rare item with a new **Caster** modifier (81)
 
 **Augment** a Magic or Rare item with a new **Caster** modifier (82)
