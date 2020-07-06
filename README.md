@@ -6,6 +6,9 @@ FIXPRICE: 50c for common crafts, 1ex for rare, 3ex for extra rare. You can check
 
 STREAMABLE, COLLATERAL-ABLE
 
+DISCORD: Tobi123#9555
+IGN: Alegro_Herbarium
+
 **Augment** a Magic or Rare item with a new **Caster** modifier (81)
 
 **Augment** a Magic or Rare item with a new **Caster** modifier (82)
@@ -295,12 +298,6 @@ STREAMABLE, COLLATERAL-ABLE
 **Remove** a random **Defence** modifier from an item (82),
 
 **Remove** a random **Defence** modifier from an item (83)
-
-**Remove** a random **Defence** modifier from an item and **add** a new **Defence** modifier (82)
-
-**Remove** a random **Defence** modifier from an item and **add** a new **Defence** modifier (83)
-
-**Remove** a random **Defence** modifier from an item and **add** a new **Defence** modifier (83)
 
 **Remove** a random **Fire** modifier from an item (82),
 
